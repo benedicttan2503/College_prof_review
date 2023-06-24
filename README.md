@@ -1,5 +1,5 @@
 # Rate My Professor Data Analyzer
-This assignment from school takes data from RatemyProfessor to analyze the relationship between a professor's gender and the rating they get, stored in RateMyProf Data Gendered.csv and RateMyProf Data Gendered Sample.csv.
+This assignment from school takes data from RatemyProfessor to analyze the relationship between a professor's gender and the rating they get, stored in RateMyProf Data Gendered.csv and RateMyProf Data Gendered Sample.csv. For full description, look at Comp_250_Winter_2023_Final_Project_UPDATED_getEntries().pdf. 
 
 - Uses a Hashtable to store the data in the MyHashTable class.
 - The DataAnalyzer.java class serves as a base for implementing various data analysis tasks by providing a common structure and defining the necessary methods that subclasses need to override.
