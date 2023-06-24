@@ -1,4 +1,4 @@
-# College_prof_review
+# Rate My Professor Data Analyzer
 This assignment from school takes data from RatemyProfessor to analyze the relationship between a professor's gender and the rating they get, stored in RateMyProf Data Gendered.csv and RateMyProf Data Gendered Sample.csv.
 
 - Uses a Hashtable to store the data in the MyHashTable class.
